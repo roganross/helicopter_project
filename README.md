@@ -22,9 +22,6 @@ This project aims to develop an embedded system for controlling a remote-control
 
 A University of Canterbury project, consult the electrical and computer engineering department (ECE) for terms.
 
+**Authors**
 
-
-
-
-
-
+Hunter Donley & Rogan Ross.
